@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: March 05, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I've joined the #100DaysOfCode Challenge
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I'm a front-end developer in Taiwan
 
-**Link to work:** [Calculator App](http://www.example.com)
+I will learn new programming languages, cool libraries, coding skills & create FUN projects in the next 100 days!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Let's see how it goes!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+[Original tweet](https://twitter.com/_easonchang/status/1500065556065439744)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+---
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: March 06, 2022
 
+Day1 of #100DaysOfCode
 
-### Day 1: June 27, Monday
+😎 Watched an awesome video from @fireship_dev about @remotion_dev
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+😎 Remotion is a cool library for making videos (mp4!) from #React code
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+😎 Kickstarted the Remotion starter project and learned how the video is made
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+https://youtu.be/deg8bOoziaE
+The latest Remotion intro video from @fireship_dev, must watch 👀
+
+https://remotion.dev
+Remotion homepage, we can learn how to make videos in React from here
+
+[Original tweet](https://twitter.com/_easonchang/status/1500345994768052224)
+
+![](https://imgur.com/W2juQ7d.gif)
