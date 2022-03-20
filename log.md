@@ -108,3 +108,46 @@ Although my original plan tonight is to finish another tiny project...
 I ended up tweaking my dev workflow and that project remains untouched :)
 
 [Original tweet](https://twitter.com/EasonChang_me/status/1502720719331147776)
+
+---
+
+## Day 6: March 13, 2022
+
+#100DaysOfCode Day6
+I just published an npm package `eslint-config-eason` for setting up my own #Eslint, #Prettier config
+
+Things I learned:
+- Publish npm package
+- Maintain package sem ver
+- Install local npm package
+- Deeper Eslint, Prettier understanding
+
+![code snippet about eslint-config-eason](https://i.imgur.com/l7bZGMH.jpg)
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1502926571703005184)
+
+NPM package:
+
+https://www.npmjs.com/package/eslint-config-eason
+
+Basic project files are cloned from @wesbos's own config (huge thanks!)
+
+https://github.com/wesbos/eslint-config-wesbos
+
+原理參考自 @pjchender 大大的好文，去年就看到了，現在終於有機會實踐個，不然每次開新專案都很痛苦
+
+https://medium.com/onedegree-tech-blog/%E5%BB%BA%E7%AB%8B%E5%85%AC%E5%8F%B8%E5%85%A7%E9%83%A8%E4%BD%BF%E7%94%A8%E7%9A%84-eslint-config-package-4b76c089848
+
+---
+
+## Day 7: March 14, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1503421774499028992)
+
+#100DaysOfCode Day 7
+I can now render ProductHunt featured products in Remotion video!
+
+Next, I will put more info in the video & fine-tune UI
+Slow but steady progress!
+
+![remotion preview screen](https://i.imgur.com/Rb2qhJw.jpg)
