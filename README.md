@@ -1,57 +1,173 @@
-# I've joined the #100DaysOfCode Challenge
+# 100 Days Of Code - Log
 
-## Contents
+## Day 0: March 05, 2022
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+[Original tweet](https://twitter.com/_easonchang/status/1500065556065439744)
 
-## Translations
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
+I've joined the #100DaysOfCode Challenge
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+I'm a front-end developer in Taiwan
 
-## If you've decided to join:
+I will learn new programming languages, cool libraries, coding skills & create FUN projects in the next 100 days!
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+Let's see how it goes!
 
-## ⚡ Interested in meaningfully changing your life & getting the results you want?
+---
 
-I publish a newsletter called [Do the Opposite](https://dotheopposite.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
+## Day 1: March 06, 2022
 
-The themes covered are:
-- **Habit Change**. Learn how to successfully acquire good habits and how to quit bad ones.
-- **Book Recommendations & Takeaways**. Get awesome book recommendations and golden nuggets of wisdom extracted from these books so you can put them into action right away!
-- **Personal Finance**. Even tiny change you make about how you manage your money will bring mind-boggling results over time. Find out what these changes are!
-- **Starting a Business**. Whether you're a wanna-be indie maker or want to become the next Elon Musk, you will find some great resources here!
-- **Overcoming Creative Blocks**. Together we explore how to beat the Resistance and finish that project you've been day-dreaming about.
-- **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
-- **Other topics**. Psychology, learning to code, alternative lifestyles and more.
+[Original tweet](https://twitter.com/_easonchang/status/1500345994768052224)
 
-Join the Do the Opposite Community!
+Day1 of #100DaysOfCode
 
-💌 [SUBSCRIBE to the newsletter and start changing your life!](https://dotheopposite.substack.com/)
+😎 Watched an awesome video from @fireship_dev about @remotion_dev
 
+😎 Remotion is a cool library for making videos (mp4!) from #React code
 
-## Want to change other habits?
+😎 Kickstarted the Remotion starter project and learned how the video is made
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+https://youtu.be/deg8bOoziaE
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+The latest Remotion intro video from @fireship_dev, must watch 👀
 
-## Note
+https://remotion.dev
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+Remotion homepage, we can learn how to make videos in React from here
+
+![](https://imgur.com/W2juQ7d.gif)
+
+---
+
+## Day 2: March 07, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1500879467820232705)
+
+Day2 of #100DaysOfCode
+
+💡Integrate @ProductHunt #graphql API to fetch everyday featured products
+
+💡Try some zx script (write shell script in #javascript)
+
+Can you guess what I am trying to build? I will combine these with Remotion I learned yesterday!
+
+![img](https://i.imgur.com/7QhgbR0.jpg)
+
+---
+
+## Day 3: March 08, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1501278150948372481)
+
+Day 3 of #100DaysOfCode 
+
+🤟 Learned @prisma, a great ORM works perfect with #TypeScript 
+
+🤟 Also tried its Prisma Cloud as database studio
+
+🤟 Underlying I used PlanetScale @planetscaledata as DB provider (MySQL)
+
+Now I have a new free DB tech stack for side projects!
+
+Although it takes me some time to figure out how to sync DB connection and schema between Prisma, PlanetScale, GitHub new commit, local
+
+Creating a new project in Prisma Cloud connected with PlanetScale always failed, but actually it succeeded…, both new project and DB were created, I have to refresh myself to see my project is there, wired…
+
+---
+
+## Day 4: March 09, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1501614366046957569)
+
+Day 4 of #100DaysOfCode
+
+For side project:
+
+Refined my #zx script for fetching #producthunt featured posts, some Date() stuff, and write JSON file
+
+For work:
+
+Keep writing unit tests for React components, hooks, and utility functions using #Jest and #ReactTestingLibrary
+
+Current zx script:
+
+Tried #Polacode for taking screenshot (a #VSCode extension)
+
+![img](https://i.imgur.com/1AcKPk9.jpg)
+
+The hardest part of writing unit tests for @nextjs project using @fbjest & @TestingLib is mocking Next.js stuff...,
+
+Still struggling to mock publicRuntimeConfig and be able to control it in different test case
+
+---
+
+## Day 5: March 12, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1502720719331147776)
+
+Day 5 of #100DaysOfCode
+
+I've created my first @alfredapp workflow: Clone Project
+
+This can do the following things:
+
+1️⃣ git clone a project from some URL
+
+2️⃣ open project in VSCode @code
+
+3️⃣ open project in Fork @git_fork
+
+It will save lots of keystrokes in my everyday workflow
+
+![video](https://i.imgur.com/dYgk7Rp.gif)
+
+Link to video: https://imgur.com/dYgk7Rp
+
+Although my original plan tonight is to finish another tiny project...
+
+I ended up tweaking my dev workflow and that project remains untouched :)
+
+---
+
+## Day 6: March 13, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1502926571703005184)
+
+#100DaysOfCode Day6
+
+I just published an npm package `eslint-config-eason` for setting up my own #Eslint, #Prettier config
+
+Things I learned:
+
+- Publish npm package
+- Maintain package sem ver
+- Install local npm package
+- Deeper Eslint, Prettier understanding
+
+![code snippet about eslint-config-eason](https://i.imgur.com/l7bZGMH.jpg)
+
+NPM package:
+
+https://www.npmjs.com/package/eslint-config-eason
+
+Basic project files are cloned from @wesbos's own config (huge thanks!)
+
+https://github.com/wesbos/eslint-config-wesbos
+
+原理參考自 @pjchender 大大的好文，去年就看到了，現在終於有機會實踐個，不然每次開新專案都很痛苦
+
+https://medium.com/onedegree-tech-blog/%E5%BB%BA%E7%AB%8B%E5%85%AC%E5%8F%B8%E5%85%A7%E9%83%A8%E4%BD%BF%E7%94%A8%E7%9A%84-eslint-config-package-4b76c089848
+
+---
+
+## Day 7: March 14, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1503421774499028992)
+
+#100DaysOfCode Day 7
+
+I can now render ProductHunt featured products in Remotion video!
+
+Next, I will put more info in the video & fine-tune UI
+Slow but steady progress!
+
+![remotion preview screen](https://i.imgur.com/Rb2qhJw.jpg)
