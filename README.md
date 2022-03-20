@@ -171,3 +171,19 @@ Next, I will put more info in the video & fine-tune UI
 Slow but steady progress!
 
 ![remotion preview screen](https://i.imgur.com/Rb2qhJw.jpg)
+
+---
+
+## Day 8: March 15, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1503805129778413568)
+
+#100DaysOfCode Day 8
+
+Just installed @tailwindcss to my @remotion_dev and added some style to my video!
+
+Let me add some animation tomorrow
+
+Also noticed Remotion still doesn't work with TailwindCSS@v3, maybe I can give it a try and have some contribution
+
+![remotion preview screen](https://i.imgur.com/ZwPfcCH.jpg)
