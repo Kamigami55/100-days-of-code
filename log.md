@@ -47,6 +47,7 @@ Day2 of #100DaysOfCode
 💡Integrate @ProductHunt #graphql API to fetch everyday featured products
 
 💡Try some zx script (write shell script in #javascript)
+
 Can you guess what I am trying to build? I will combine these with Remotion I learned yesterday!
 
 ![img](https://i.imgur.com/7QhgbR0.jpg)
