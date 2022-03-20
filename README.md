@@ -187,3 +187,15 @@ Let me add some animation tomorrow
 Also noticed Remotion still doesn't work with TailwindCSS@v3, maybe I can give it a try and have some contribution
 
 ![remotion preview screen](https://i.imgur.com/ZwPfcCH.jpg)
+
+---
+
+## Day 9: March 19, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1505160658270126083)
+
+#100DaysOfCode Day 9
+
+Tweaked UI & Added animations to my Remotion video!
+
+![remotion animation](https://i.imgur.com/2kxjH39.gif)
