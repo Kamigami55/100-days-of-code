@@ -190,7 +190,7 @@ Also noticed Remotion still doesn't work with TailwindCSS@v3, maybe I can give i
 
 ---
 
-## Day 9: March 19, 2022
+## Day 9: March 18, 2022
 
 [Original tweet](https://twitter.com/EasonChang_me/status/1505160658270126083)
 
@@ -199,3 +199,27 @@ Also noticed Remotion still doesn't work with TailwindCSS@v3, maybe I can give i
 Tweaked UI & Added animations to my Remotion video!
 
 ![remotion animation](https://i.imgur.com/2kxjH39.gif)
+
+---
+
+## Day 10: March 19, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1505240619442380800)
+
+#100DaysOfCode Day 10
+
+Almost complete my #ProductHunt twitter bot @ProductHunToday, Learned a lot today
+
+⭐️ Twitter API for tweet with video
+
+⭐️ Github Actions for auto-generate video and tweet every day
+
+⭐️ Tweaking UI & wording 
+
+Follow for never missing trending products!
+
+Result:
+
+https://twitter.com/ProductHunToday/status/1505230733526327301
+
+![twitter result](https://i.imgur.com/ISINpOi.jpg)
