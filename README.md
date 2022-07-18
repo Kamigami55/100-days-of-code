@@ -223,3 +223,183 @@ Result:
 https://twitter.com/ProductHunToday/status/1505230733526327301
 
 ![twitter result](https://i.imgur.com/ISINpOi.jpg)
+
+---
+
+## Day 11: March 20, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1505556940151173129)
+
+#100DaysOfCode Day 11
+
+✍️ Migrated my old posts on 2021 iThome Ironman to my personal blog
+✍️ Added GA4 to my blog
+
+Next, I will focus on refining my @nextjs blog
+
+The first plan is to research how to create Open Graph images automatically
+
+---
+
+## Day 12: March 22, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1505984150666625024)
+
+#100DaysOfCode Day 12
+
+Improved my @ProductHunToday bot!
+
+🔥 Added detail of each product
+🔥 Make the first frame show full information
+🔥 Fixed @remotion_dev image sync issue with its <Img/> & <Gif/>
+🔥 Tweak wording
+
+---
+
+## Day 13: March 23, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1506347912103866368)
+
+Proudly launch @ProductHunToday 🌟
+
+It's a tweet bot that tweets trending #ProductHunt products every day, in short videos
+
+🔥 @remotion_dev @reactjs for video generation
+🔥 @tailwindcss for UI
+🔥 @ProductHunt @GraphQL API
+
+And it's open-source! (repo in thread)
+#100DaysOfCode Day13
+
+---
+
+## Day 14: March 27, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1508097635022143489)
+
+#100DaysOfCode Day 14
+Fix bugs for @ProductHunToday, and submit ProductHuntToday to Remotion showcase page
+
+---
+
+## Day 15: April 5, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1511209706861174785)
+
+#100DaysOfCode Day15
+Added multilingual to my personal blog!
+I will translate all the content next
+---
+
+## Day 16: April 6, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1511405125998628872)
+
+#100DaysOfCode Day 16
+Added OG image & Refined UI for my personal blog.
+https://easonchang.com
+Keep working on it!
+
+---
+
+## Day 17: April 7, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1511812575108874241)
+
+#100DaysOfCode Day 17
+Fix my @ProductHunToday for edge cases (image too large, tweet content too long), so that today's tweet can be generated
+
+---
+
+## Day 18: April 9, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1512514757676265473)
+
+#100DaysOfCode Day 18
+Wrote a blog post about @ProductHunToday project (in Chinese for now, translation to English ongoing)
+ 
+---
+
+## Day 19: April 10, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1512866335075700737)
+
+#100DaysOfCode Day 19
+Added sitemap & robots.txt to my personal blog (Next.js MDX).
+Accomplished with next-sitemap, because all pages are static, no complicated setup is needed!
+
+![image](https://user-images.githubusercontent.com/8737381/179566450-75d95cb1-58b3-42da-a9f0-9026c022b1ab.png)
+
+---
+
+## Day 20: April 10, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1513179830497718272)
+
+#100DaysOfCode Day 20
+Integrate Hygen (code generator) to my blog.
+Now I can use `hygen post new` or `yarn new-post`, to create post boilerplate files
+
+![image](https://user-images.githubusercontent.com/8737381/179566546-5f13c2fa-09bb-425b-983a-a13d9e814bb1.png)
+
+---
+
+## Day 21: April 12, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1513558345617063939)
+
+#100DaysOfCode Day 21
+Published a new blog post about how I integrate Hygen code generator into my blog, used for creating .mdx files of drafts
+
+---
+
+## Day 22: April 13, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1513978346593349635)
+
+#100DaysOfCode Day 22
+Tinkering my personal blog
+- Able to add custom open graph images for each post
+- Interchange DarkModeToggleButton sun and moon icons, so that they are matched with current theme
+
+---
+
+## Day 23: April 17, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1515597348843388930)
+
+#100DaysOfCode Day 23
+Registered new domain http://eason.ch & Learned how to use Nuxt.js & Deployed my own LinkTree clone
+
+![image](https://user-images.githubusercontent.com/8737381/179566904-fcb8fd39-c25c-4068-bb27-dbf5489d2ed4.png)
+
+
+---
+
+## Day 24: July 17, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1548608092509638656)
+
+#100DaysOfCode Day 24
+Bootstrapped leetcode-cheatsheet project!
+This will be the most essential & clear cheatsheet for solving #leetcode problems
+Started from #Python data structures, Just put some snippets in it, work in progress!
+
+https://github.com/Kamigami55/leetcode-cheatsheet
+
+---
+
+## Day 25: July 19, 2022
+
+[Original tweet](https://twitter.com/EasonChang_me/status/1549076794313043973)
+
+#100DaysOfCode Day 25
+
+Finished first ver of #LeetCode #Python cheatsheet!
+It covers essential Python syntaxes for LeetCode.
+
+This is what it looks like:
+
+If you want to see the full cheatsheet, visit the repo in the thread, and give it a shiny star :)
+
+![image](https://user-images.githubusercontent.com/8737381/179567181-bc1dd468-3e9d-47a9-8a59-769a4680696c.png)
